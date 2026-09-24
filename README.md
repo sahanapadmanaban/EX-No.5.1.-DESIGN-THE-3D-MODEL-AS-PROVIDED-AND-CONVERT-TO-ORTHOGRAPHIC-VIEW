@@ -37,7 +37,8 @@ Switch to drawing mode from design mode
 
 ## OUTPUT
 
-<img width="836" height="587" alt="image" src="https://github.com/user-attachments/assets/41349126-636f-488a-9ca3-b2bb38f65bb2" />
+
+[ex 5.1 drawing edm.pdf](https://github.com/user-attachments/files/32609538/ex.5.1.drawing.edm.pdf)
 
 
 ## RESULT:
